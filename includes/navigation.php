@@ -5,7 +5,7 @@
       <input type="checkbox" id="show-menu">
       <label for="show-menu" class="menu-icon"><i class="fas fa-bars"></i></label>
       <div class="content">
-        <a href="https://www.eduprov.in/"><img src="images/logo.png" class="logo_size" alt="Eduprov_in_logo" /></a>
+        <a href="#"><img src="images/logo.png" class="logo_size" alt="Prudential_info_sol" /></a>
          <ul class="links">
           <li><a href="#">HOME</a></li>
           <li><a href="#">ABOUT</a></li>
