@@ -386,6 +386,13 @@ footer ul li a {
     width: 60%;
     margin-top: 0px;
   }
+  .banner {
+    background-image: url("../images/banner_mobile.jpg") !important;
+    height: 620px;
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+  }
 }
 .banner {
   background-image: url("../images/banner.png");

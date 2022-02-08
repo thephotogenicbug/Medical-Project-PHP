@@ -11,7 +11,8 @@
     <div class="banner">
       <div class="container">
         <div class="row">
-          <h2 class="text-white" style="margin-top:250px; color:#ffffff;">
+          <h1 class="text-white" style="margin-top:250px; color:#ffffff;">COMPANY NAME</h1>
+          <h2 class="text-white fs-3">
             ONE STOP FOR ALL YOUR <br />
             MEDICAL BILLING AND TRANSCRIPTION <br />
             NEEDS
